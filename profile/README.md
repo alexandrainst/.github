@@ -1,6 +1,4 @@
-# Alexandra Institute
-
-> Do IT with us – Innovation based on IT research
+> *Do IT with us – Innovation based on IT research*
 
 The **[Alexandra Institute](https://alexandra.dk/about-the-alexandra-institute/)** is a Danish non-profit company that works with research-based IT innovation. We collaborate with public and private organisations to develop state-of-the-art IT solutions that are effective and secure and offer innovative user experiences. We have around 100 employees with different backgrounds, including computer scientists, architects, anthropologists, engineers, designers, business developers, etc.
 
